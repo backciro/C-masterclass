@@ -1,0 +1,11 @@
+* cod032659 pila elettronica 3.99 8 1\9\2016 
+* cod148487 lampadina elettronica 0.49 9 6\8\2016 
+* cod348876 detersivo casa 9.79 4 11\7\2016 
+* cod562409 jolla divertimento 4.20 12 1\11\2011 
+* cod700456 auricolari elettronica 18.99 8 31\9\2016 
+* cod784512 pantalone vestiario 15.99 5 2\9\2016 
+* cod791256 cuscino casa 6.99 22 21\10\2016 
+* cod798411 quaderno ufficio 1.79 11 11\6\2016 
+* cod798456 penna ufficio 0.79 15 1\10\2016 
+* cod845203 calcolatrice ufficio 21.99 4 5\8\2016 
+* cod895626 maglietta vestiario 8.99 10 15\6\2016 

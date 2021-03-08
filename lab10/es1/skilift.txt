@@ -1,0 +1,11 @@
+10
+skilift001 5
+skilift002 8
+skilift003 13
+skilift004 16
+skilift005 21
+skilift006 26
+skilift007 31
+skilift008 35
+skilift009 39
+skiliftXVR 46
